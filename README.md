@@ -48,6 +48,8 @@ Suivre la marche à suivre sur http://alexandre.meyer.pages.univ-lyon1.fr/lifami
 ## Sources
 
 - Police [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font)
-- [Fond d'écran](https://www.desktopbackground.org/wallpaper/flappy-generator-plus-create-your-own-flappy-bird-game-799254)
+- [Fond d'écran (retravaillé par moi)](https://www.desktopbackground.org/wallpaper/flappy-generator-plus-create-your-own-flappy-bird-game-799254)
 - [Oiseau Flappy Bird](https://ru.pinterest.com/pin/download-logo-pic-bird-flappy-free-transparent-image-hq-hq-png-image--985514330935276310/)
+- [Image tunnel (retravaillée par moi)](https://www.pngkey.com/maxpic/u2w7q8e6t4i1t4a9/)
+
 - Logo Flappy Bird réalisé avec la police d'écriture [Flappy Birdy](https://www.dafont.com/flappybirdy.font)
